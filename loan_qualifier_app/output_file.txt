@@ -1,0 +1,12 @@
+19492@DESKTOP-8L566OA MINGW64 ~/OneDrive/Desktop/FinTech/Practice/Starter_Code/Starter_Code/loan_qualifier_app
+$ python app.py
+? Enter a file path to a rate-sheet (.csv): data/daily_rate_sheet.csv
+? What's your credit score? 800
+? What's your current amount of monthly debt? 500
+? What's your total monthly income? 8000
+? What's your desired loan amount? 5000
+? What's your home value? 70000
+The monthly debt to income ratio is 0.06
+The loan to value ratio is 0.07.
+Found 24 qualifying loans
+? Enter a file path to save the result (.csv): data/output.csv
